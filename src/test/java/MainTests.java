@@ -1,4 +1,3 @@
-import org.example.Main;
 import org.example.User;
 import org.example.WebTests;
 import org.junit.jupiter.api.*;
